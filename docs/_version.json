@@ -2,6 +2,6 @@
 	"Name": "merquerial",
 	"Version": "1.0.0",
 	"Description": "Simple dependency-free console query library.",
-	"GeneratedAt": "2026-04-10T01:50:36.072Z",
-	"GitCommit": "ce113b9"
+	"GeneratedAt": "2026-04-10T02:06:18.041Z",
+	"GitCommit": "8c8668c"
 }
