@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevenvelozo/merquerial.git"
+    "url": "git+https://github.com/fable-retold/merquerial.git"
   },
   "author": "steven velozo <steven@velozo.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stevenvelozo/merquerial/issues"
+    "url": "https://github.com/fable-retold/merquerial/issues"
   },
-  "homepage": "https://github.com/stevenvelozo/merquerial#readme",
+  "homepage": "https://github.com/fable-retold/merquerial#readme",
   "devDependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
