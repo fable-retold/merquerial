@@ -1,7 +1,7 @@
 {
-	"Generated": "2026-05-22T05:48:40.397Z",
+	"Generated": "2026-05-26T18:25:41.884Z",
 	"Mode": "module",
-	"DocumentCount": 0,
+	"DocumentCount": 1,
 	"LunrIndex": {
 		"version": "2.3.9",
 		"fields": [
@@ -10,11 +10,257 @@
 			"group",
 			"body"
 		],
-		"fieldVectors": [],
-		"invertedIndex": [],
+		"fieldVectors": [
+			[
+				"title/_cover.md",
+				[
+					0,
+					3.567
+				]
+			],
+			[
+				"module/_cover.md",
+				[
+					0,
+					1.783
+				]
+			],
+			[
+				"group/_cover.md",
+				[]
+			],
+			[
+				"body/_cover.md",
+				[
+					0,
+					0.357,
+					1,
+					0.288,
+					2,
+					0.288,
+					3,
+					0.288,
+					4,
+					0.288,
+					5,
+					0.288,
+					6,
+					0.288,
+					7,
+					0.288,
+					8,
+					0.288,
+					9,
+					0.288,
+					10,
+					0.288,
+					11,
+					0.288,
+					12,
+					0.288,
+					13,
+					0.288,
+					14,
+					0.288
+				]
+			]
+		],
+		"invertedIndex": [
+			[
+				"configur",
+				{
+					"_index": 11,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"consol",
+				{
+					"_index": 4,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"depend",
+				{
+					"_index": 2,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"document",
+				{
+					"_index": 9,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"free",
+				{
+					"_index": 3,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"full",
+				{
+					"_index": 8,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"github",
+				{
+					"_index": 13,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"librari",
+				{
+					"_index": 6,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"merqueri",
+				{
+					"_index": 0,
+					"title": {
+						"_cover.md": {}
+					},
+					"module": {
+						"_cover.md": {}
+					},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"queri",
+				{
+					"_index": 5,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"read",
+				{
+					"_index": 7,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"refer",
+				{
+					"_index": 12,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"simpl",
+				{
+					"_index": 1,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"start",
+				{
+					"_index": 14,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"usag",
+				{
+					"_index": 10,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			]
+		],
 		"pipeline": [
 			"stemmer"
 		]
 	},
-	"Documents": {}
+	"Documents": {
+		"_cover.md": {
+			"Title": "Merquerial",
+			"Module": "merquerial",
+			"Group": "",
+			"DocPath": "_cover.md"
+		}
+	}
 }
