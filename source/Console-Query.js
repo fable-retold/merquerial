@@ -81,12 +81,12 @@ class ConsoleQuery
 
 	ValidateResponse()
 	{
-		if (this.ValidationRegex && this.ValidationRegex.length > 0)
+		if (this.Options.ValidationRegex && this.Options.ValidationRegex.length > 0)
 		{
 			// Check the regular expression
-			let tmpValidationRegex = new RegExp(this.ValidationRegex);
+			let tmpValidationRegex = new RegExp(this.Options.ValidationRegex);
 
-			if (tmpValidationRegex.Match(this.Response))
+			if (tmpValidationRegex.test(this.Response))
 			{
 				return true;
 			}
